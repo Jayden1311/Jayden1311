@@ -2,7 +2,7 @@
   <img src= "https://readme-typing-svg.herokuapp.com?color=F77629&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%8C%8F!+Welcome+to+my+profile!;I'm+Jayden+and+I'm+a+Dutch+developer;Studying+Software+Engineering;Never+to+old+to+learn!">
 <hr/>
 <h2 align='center'>  👨‍💻&👨‍🎓🇳🇱 Bio  </h2>
-<p > Hello 🌏! Welcome to my profile! My name is Jayden, also known as Jay. I am a 21 y/o Software Developer that is currently studying to become a Software Engineer.  As a child I was fascinated by technology and that inspired me to become a Software Developer. Every commit is something you need to think of! Everyday is different and the challenges bring me personal growth. I firmly believe in the power of technology to make human lives better. The impact and reach of coding is extraordinary. Writing code is more than typing in a text editor, it can change the world and I want to be a part of it!</p> 
+<p > Hello 🌏! Welcome to my profile! My name is Jayden, also known as Jay. I am a 21 y/o Software Developer that is currently studying to become a Software Engineer.  As a child I was fascinated by technology and that inspired me to become a Software Developer. Every commit is something you need to think of! Everyday is different and the challenges bring me personal growth. I firmly believe in the power of technology to make people happy and create awesome things!. The impact and reach of coding is extraordinary. Writing code is more than typing in a text editor, it can change everything and I want to be a part of it!</p> 
 
 <p> My main technical skills include HTML5, CSS3, JavaScript, PhP, Node.JS, FileMaker, Vue.js, Nuxt.js, Node.js, Java, PowerShell, Git, GitHub, and learning more!...</p> 
  
@@ -22,7 +22,7 @@ student.speak("in love with development!");
  
 ```
 
-<h2 align='center'> ⭐ GitHub Stats ⭐ </h2>
+<h2 align='center'> ⭐ GitHub Stats (Empty as projects are private) ⭐ </h2>
 <p align='center'>
  <a href="#"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jayden1311&show_icons=true&count_private=true&theme=merko"></a>
  <a href="#"> <img height="150em"  src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayden1311&layout=compact&langs_count=8&theme=merko"></a>
@@ -49,13 +49,15 @@ student.speak("in love with development!");
 <h2 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Love Tech? Let's chat!🤓
 </h2> 
 <p align='center'>
-       
-  </a>&nbsp;&nbsp;
   <a target="_blank" href="https://github.com/Jayden1311">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  
+  </a>      
 </p>
-
+ 
+ <p align='center'>
+  <a href="#">Thank you for visiting! 🎉</a>
+</p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Jayden1311/Jayden1311"></a> Thank you for visiting! 🎉
+  <img src="https://badges.pufler.dev/visits/Jayden1311/Jayden1311">
 </p>
 
