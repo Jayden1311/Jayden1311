@@ -2,7 +2,13 @@
   <img src= "https://readme-typing-svg.herokuapp.com?color=F77629&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%8C%8F!+Welcome+to+my+profile!;I'm+Jayden+and+I'm+a+Dutch+developer;Studying+Software+Engineering;Never+to+old+to+learn!">
 <hr/>
 <h2 align='center'>  👨‍💻&👨‍🎓🇳🇱 Bio  </h2>
+  <p align='center'>
+    <a target="_blank" href="https://github.com/Jayden1311">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  
+  </a>
+  </p>
 <p align='center'>
+ 
 <img src="https://badges.pufler.dev/years/Jayden1311/">
 <img src="https://badges.pufler.dev/commits/all/Jayden1311/">
 <img src="https://badges.pufler.dev/repos/Jayden1311/">
@@ -50,14 +56,6 @@ student.speak("in love with development!");
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;&nbsp;
  </p>
-
-<h2 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Love Tech? Let's chat!🤓
-</h2> 
-<p align='center'>
-  <a target="_blank" href="https://github.com/Jayden1311">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  
-  </a>      
-</p>
  
  <p align='center'>
   <a href="#">Thank you for visiting! 🎉</a>
