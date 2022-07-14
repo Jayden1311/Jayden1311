@@ -9,9 +9,9 @@
   </p>
 <p align='center'>
  
-<img src="https://badges.pufler.dev/years/Jayden1311/">
-<img src="https://badges.pufler.dev/commits/all/Jayden1311/">
-<img src="https://badges.pufler.dev/repos/Jayden1311/">
+<img src="https://badges.strrl.dev/years/Jayden1311/">
+<img src="https://badges.strrl.dev/commits/all/Jayden1311/">
+<img src="https://badges.strrl.dev/repos/Jayden1311/">
   </p>
 <p > Hello 🌏! Welcome to my profile! My name is Jayden, also known as Jay. I am a 21 y/o Software Developer that is currently studying to become a Software Engineer.  As a child I was fascinated by technology and that inspired me to become a Software Developer. Every commit is something you need to think of! Everyday is different and the challenges bring me personal growth. I firmly believe in the power of technology to make people happy and create awesome things!. The impact and reach of coding is extraordinary. Writing code is more than typing in a text editor, it can change everything and I want to be a part of it!</p> 
 
@@ -48,6 +48,6 @@
   <a href="#">Thank you for visiting! 🎉</a>
 </p>
 <p align='center'>
-  <img src="https://badges.pufler.dev/visits/Jayden1311/Jayden1311">
+  <img src="https://badges.strrl.dev/visits/Jayden1311/Jayden1311">
 </p>
 
