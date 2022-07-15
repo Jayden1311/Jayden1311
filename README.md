@@ -14,7 +14,7 @@
   </p>
 <p > Hello 🌏! Welcome to my profile! My name is Jayden, also known as Jay. I am a 21 y/o Software Developer that is currently studying to become a Software Engineer.  As a child I was fascinated by technology and that inspired me to become a Software Developer. Every commit is something you need to think of! Everyday is different and the challenges bring me personal growth. I firmly believe in the power of technology to make people happy and create awesome things!. The impact and reach of coding is extraordinary. Writing code is more than typing in a text editor, it can change everything and I want to be a part of it!</p> 
 
-<p> My main technical skills include HTML5, CSS3, JavaScript, PhP, Node.JS, FileMaker, Vue.js, Nuxt.js, Node.js, Java, PowerShell, Git, GitHub, and I'm still learning more!...</p> 
+<p> My main technical skills include HTML5, CSS3, Javascript, Php, Node.js, FileMaker, Vue.js, Nuxt.js, Java, PowerShell, Git, GitHub, and I'm still learning more!...</p> 
 
 
 <h2 align='center'> ⭐ GitHub Stats (Empty as projects are private) ⭐ </h2>
