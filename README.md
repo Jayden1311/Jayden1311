@@ -19,7 +19,7 @@
 <h2 align='center'> ⭐ GitHub Stats (Empty as projects are private) ⭐ </h2>
 <p align='center'>
  <a href="#"> <img height="150em" src="https://github-readme-stats-jayden1311.vercel.app//api?username=Jayden1311&show_icons=true&count_private=true&theme=merko"></a>
- <a href="#"> <img height="150em"  src = "https://github-readme-stats-jayden1311.vercel.app/api/top-langs/?username=Jayden1311&theme=merko"></a>
+ <a href="#"> <img height="150em"  src = "https://github-readme-stats-jayden1311.vercel.app/api/top-langs/?username=Jayden1311&layout=compact&theme=merko"></a>
 </p>
 <h2 align='center'> <b> 🛠️ Learned and still learning   </b></h2> 
 
